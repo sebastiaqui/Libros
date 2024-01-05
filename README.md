@@ -1,4 +1,4 @@
-##Sistema de Gestión de Libros en Línea
+Sistema de Gestión de Libros en Línea
 
 #### Descripción del Proyecto
 
